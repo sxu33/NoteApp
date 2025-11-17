@@ -98,7 +98,7 @@ const CreatePage = () => {
             </form>
           </div>
         </div>
-        Title:
+      
       </div>
     </div>
   );
